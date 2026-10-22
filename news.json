@@ -1,0 +1,14 @@
+{
+  "version": "2026-10-22",
+  "items": [
+    {"date": "2026-10-22",
+     "title": {"ro": "Favorite și News", "en": "Favorites and News", "fr": "Favoris et actualités", "de": "Favoriten und News", "it": "Preferiti e News"},
+     "text": {
+      "ro": "Poți marca produsele cu ☆ în fișa lor; lista Favorite (bara de jos) se poate copia sau trimite.",
+      "en": "You can mark products with ☆ on their sheet; the Favorites list (bottom bar) can be copied or shared.",
+      "fr": "Vous pouvez marquer les produits avec ☆ dans leur fiche ; la liste Favoris (barre du bas) peut être copiée ou partagée.",
+      "de": "Sie können Produkte im Datenblatt mit ☆ markieren; die Favoritenliste (untere Leiste) lässt sich kopieren oder teilen.",
+      "it": "Puoi segnare i prodotti con ☆ nella loro scheda; la lista Preferiti (barra in basso) si può copiare o condividere."
+     }}
+  ]
+}
